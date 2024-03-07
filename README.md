@@ -31,4 +31,4 @@ Here is the postman documentation for the API https://documenter.getpostman.com/
 - This project took total of 6 hours to be completed 2 of them in searching for the suitable packages.
 - There are some imporvements that can be added to this project such as:
     - More robust error messages.
-    - Pagination
+    - Pagination.
